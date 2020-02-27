@@ -1,0 +1,8 @@
+argent = int(input())
+prix = int(input())
+bonbon = 0
+if ( argent > 0) and ( prix > 0) :
+  for loop in range(argent//prix) :
+    loop = bonbon
+  print(bonbon)
+  bonbon = bonbon + 1
